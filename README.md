@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently studying game development principles in school<br>⚒️ I'm currently working on creating Roblox utilities and an open source minecraft mod<br>💬 Ask me about getting help on Roblox games or network security principles
+🔭 I'm currently studying game development principles in school<br>⚒️ I'm currently working on creating Roblox utilities and an open source minecraft mod
 
 
 # 💻 Tech Stack:
